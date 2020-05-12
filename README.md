@@ -1,5 +1,5 @@
 # 백준 알고리즘 코드   
-## [rjawjd68](https://www.acmicpc.net/user/rjawjd68) [단계별 풀이](https://www.acmicpc.net/step)코드
+### [rjawjd68](https://www.acmicpc.net/user/rjawjd68) [단계별 풀이](https://www.acmicpc.net/step)코드
 
 1. [Python](https://github.com/sgyeong97/Baekjoon/tree/master/Python)   
 -[For문](https://github.com/sgyeong97/Baekjoon/tree/master/Python/for)   

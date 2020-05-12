@@ -1,4 +1,5 @@
-#백준 알고리즘 코드
+#백준 알고리즘 코드   
+[rjawjd68](https://www.acmicpc.net/user/rjawjd68)   
 [단계별 풀이](https://www.acmicpc.net/step)해결 코드 모음
 
 1. [Python](https://github.com/sgyeong97/Baekjoon/tree/master/Python)   

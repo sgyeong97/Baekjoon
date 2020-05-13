@@ -10,4 +10,4 @@
 -[if문](https://github.com/sgyeong97/Baekjoon/tree/master/C/if%EB%AC%B8)   
 -[for문](https://github.com/sgyeong97/Baekjoon/tree/master/C/for)   
 -[while문](https://github.com/sgyeong97/Baekjoon/tree/master/C/while%EB%AC%B8)   
--[1차원 배열](https://github.com/sgyeong97/Baekjoon/tree/master/C/1%EC%B0%A8%EC%9B%90%EB%B0%B0%EC%97%B4)   
+-[배열](https://github.com/sgyeong97/Baekjoon/tree/master/C/%EB%B0%B0%EC%97%B4)
